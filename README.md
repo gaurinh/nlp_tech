@@ -2,7 +2,7 @@
 fetch news from web(stock news). Do sentimet analysis and see the score. find if there is any relation between sentiments and stock price.
 
 #Scope(current implementation)
-fetch data from twitter for specific company. plot sentiment score vs date graph. try to compare trend of sentiment vs date plot with sttock price trend. see if both trend show same direction.
+fetch data from twitter for specific company. plot sentiment score vs date graph. try to compare trend of sentiment vs date plot with sttock price trend. see if both trends show same direction.
 
 # Approach
 1. fetch data from twitter
